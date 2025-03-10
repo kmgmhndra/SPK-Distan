@@ -27,12 +27,6 @@ Proyek ini dikembangkan untuk Dinas Pertanian Kabupaten Buleleng.
 - **Database**: MySQL
 - **Libraries**: Axios, SweetAlert, Chart.js
 
-### 📌 Cara Instalasi
-
-### 1️ Clone Repository
-```sh
-git clone https://github.com/kmgmhndra/SPK-DISTAN.git
-cd SPK-DISTAN
 ```
 ### 📌 Cara Instalasi
 
