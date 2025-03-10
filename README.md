@@ -29,6 +29,13 @@ Proyek ini dikembangkan untuk Dinas Pertanian Kabupaten Buleleng.
 
 ### 📌 Cara Instalasi
 
+### 1️ Clone Repository
+```sh
+git clone https://github.com/kmgmhndra/SPK-DISTAN.git
+cd SPK-DISTAN
+```
+### 📌 Cara Instalasi
+
 ### 1️⃣ Clone Repository
 ```sh
 git clone https://github.com/kmgmhndra/SPK-DISTAN.git
