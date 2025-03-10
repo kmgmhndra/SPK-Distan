@@ -27,7 +27,7 @@ Proyek ini dikembangkan untuk Dinas Pertanian Kabupaten Buleleng.
 - **Database**: MySQL
 - **Libraries**: Axios, SweetAlert, Chart.js
 
-## 📌 Cara Instalasi
+### 📌 Cara Instalasi
 
 ### 1️⃣ Clone Repository
 ```sh
