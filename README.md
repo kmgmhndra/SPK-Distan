@@ -11,7 +11,7 @@
 # SPK DISTAN
 
 Sistem Pendukung Keputusan (SPK) DISTAN adalah aplikasi berbasis web yang membantu dalam menentukan prioritas
-penerima bantuan benih tanaman pangan (padi dan palawija) dengan metode **MABAC**.
+penerima bantuan benih tanaman pangan (padi dan palawija) dengan kombinasi metode ROC WPM.
 Proyek ini dikembangkan untuk Dinas Pertanian Kabupaten Buleleng.
 
 ## 🚀 Fitur Utama
